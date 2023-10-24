@@ -1,0 +1,9 @@
+   Name  Balance
+   John      880
+    Bob     1200
+   Kane     1500
+    tim     1400
+  robin      560
+michael      780
+ robert      920
+ jeseem      123
